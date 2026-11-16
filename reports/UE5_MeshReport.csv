@@ -1,0 +1,15 @@
+﻿Asset Name,LODs,Vertices,Triangles,Status,Material Slots,Collision Count,Collision Complexity,Warning Reasons,Asset Path,Category,Triangle Limit,Rule Source
+SM_Door,1,24,12,PASS,1,1,CTF_USE_DEFAULT,,/Game/LevelPrototyping/Interactable/Door/Meshes/SM_Door,Default,200,Default
+SM_DoorFrame_Corner,1,196,252,WARNING,1,1,CTF_USE_DEFAULT,Triangle budget exceeded (252/200),/Game/LevelPrototyping/Interactable/Door/Meshes/SM_DoorFrame_Corner,Default,200,Default
+SM_DoorFrame_Edge,1,48,36,PASS,1,1,CTF_USE_DEFAULT,,/Game/LevelPrototyping/Interactable/Door/Meshes/SM_DoorFrame_Edge,Default,200,Default
+SM_CircularBand,1,66,64,PASS,1,1,CTF_USE_DEFAULT,,/Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand,Default,200,Default
+SM_CircularGlow,1,66,94,PASS,1,1,CTF_USE_DEFAULT,,/Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow,Default,200,Default
+SM_TargetBaseMesh,1,213,348,WARNING,1,1,CTF_USE_DEFAULT,Triangle budget exceeded (348/200),/Game/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh,Default,200,Default
+SM_ChamferCube,1,176,256,WARNING,1,1,CTF_USE_DEFAULT,Triangle budget exceeded (256/200),/Game/LevelPrototyping/Meshes/SM_ChamferCube,Default,200,Default
+SM_Cube,1,24,12,PASS,1,1,CTF_USE_DEFAULT,,/Game/LevelPrototyping/Meshes/SM_Cube,Default,200,Default
+SM_Plane,1,4,2,PASS,1,1,CTF_USE_SIMPLE_AND_COMPLEX,,/Game/LevelPrototyping/Meshes/SM_Plane,Default,200,Default
+SM_QuarterCylinderOuter,1,187,252,WARNING,1,3,CTF_USE_SIMPLE_AND_COMPLEX,Triangle budget exceeded (252/200),/Game/LevelPrototyping/Meshes/SM_QuarterCylinderOuter,Default,200,Default
+SM_Ramp,1,18,8,PASS,1,1,CTF_USE_DEFAULT,,/Game/LevelPrototyping/Meshes/SM_Ramp,Default,200,Default
+SM_QuarterCylinder,1,215,252,WARNING,1,1,CTF_USE_SIMPLE_AND_COMPLEX,Triangle budget exceeded (252/200),/Game/LevelPrototyping/Meshes/SM_QuarterCylinder,Default,200,Default
+SM_Cylinder,1,256,252,WARNING,1,1,CTF_USE_SIMPLE_AND_COMPLEX,Triangle budget exceeded (252/200),/Game/LevelPrototyping/Meshes/SM_Cylinder,Default,200,Default
+SM_ChamferCube,1,176,256,WARNING,1,1,CTF_USE_DEFAULT,Insufficient LODs: 1/2,/Game/Game/Props/SM_ChamferCube,Props,3000,Category Override

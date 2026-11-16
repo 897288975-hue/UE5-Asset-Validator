@@ -1,0 +1,27 @@
+
+{
+  "default": {
+    "max_triangles": 200,
+    "max_material_slots": 3,
+    "max_collision_shapes": 5,
+    "allowed_collision_modes": [
+      "CTF_USE_DEFAULT",
+      "CTF_USE_SIMPLE_AND_COMPLEX"
+    ],
+    "min_lods": 1
+  },
+  "categories": {
+    "Architecture": {
+      "max_triangles": 10000,
+      "max_material_slots": 5
+    },
+    "Props": {
+      "max_triangles": 3000,
+      "min_lods": 2
+    },
+    "Foliage": {
+      "max_triangles": 5000,
+      "max_material_slots": 2
+    }
+  }
+}
