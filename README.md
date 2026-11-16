@@ -123,6 +123,7 @@ python -m unittest discover -s tests -v
 ```
 
 These are **mock-based structural tests** of rule selection, CSV output and warning aggregation. Actual UE5 API compatibility should be verified inside the Unreal Editor using the instructions above.
+The reorganized V0.1 package has been regression-tested in Unreal Engine 5.7, validating 14 Static Mesh assets with zero inspection errors.
 
 ## Known limitations / next steps
 
